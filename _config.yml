@@ -18,9 +18,9 @@ title                    : "Yoevelyn Rodriguez"
 title_separator          : "-"
 name                     : "Yoevelyn Rodriguez"
 description              : "Data Science Portfolio"
-url                      : "https://yoevelynrodriguez.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://yoevelynrodriguez.github.io/blog" # the subpath of your site, e.g. "/blog"
-repository               : "yovyTheLurker/yovyTheLurker" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -108,9 +108,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Miami, Florida"
-  email            :
+  email            : "Yoerodri@yahoo.com"
   links:
-    - label: "Yoerodri@yahoo.com"
+    - label:
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
